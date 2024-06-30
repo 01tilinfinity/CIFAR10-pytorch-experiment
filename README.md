@@ -1,4 +1,4 @@
-# experiment1
+# CIFAR10 데이터셋 활용 Image Classification(w/Resnet-18)
 ------------------------------
 **Base Model** : Resnet18 
 <br />
